@@ -4,3 +4,5 @@ crewai-tools
 sentence-transformers
 chromadb
 google-generativeai
+fastapi
+uvicorn
