@@ -6,8 +6,8 @@
         "use": "@vercel/python"
       },
       {
-        "src": "frontend/app.js",
-        "use": "@vercel/static-build"
+        "src": "frontend/index.html",
+        "use": "@vercel/static"
       }
     ],
     "routes": [
