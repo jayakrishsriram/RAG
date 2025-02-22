@@ -1,0 +1,6 @@
+selenium
+crewai
+crewai-tools
+sentence-transformers
+chromadb
+google-generativeai
