@@ -27,3 +27,11 @@ Scraping: Custom Python-based scraper
 Vector Database: ChromaDB (or any compatible vector storage)
 Embedding & RAG: Google Gemini API
 
+# Video Sample:
+
+https://github.com/user-attachments/assets/43d08465-b04f-4177-b14a-5dac8b4b56a7
+
+# Some Problems that are faced during this project:
+1. Developing a frontend but used HTML,CSS, JavaScript
+2. Hosting - I am still looking for it.
+   
